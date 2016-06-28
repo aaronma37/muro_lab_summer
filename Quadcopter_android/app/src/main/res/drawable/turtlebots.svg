@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="515"
+   height="515"
+   id="svg3880"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="turtlebots.svg">
+  <defs
+     id="defs3882">
+    <linearGradient
+       id="linearGradient5912"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop5914" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4470">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop4472" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop4474" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4428"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4424"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4408"
+       is_visible="true" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6012">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#ff0000;stroke-width:40.01038742;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path6014"
+         sodipodi:cx="633.57141"
+         sodipodi:cy="539.28571"
+         sodipodi:rx="346.42856"
+         sodipodi:ry="275"
+         d="m 979.99997,539.28571 a 346.42856,275 0 1 1 -692.85712,0 346.42856,275 0 1 1 692.85712,0 z"
+         transform="matrix(0.69805517,0,0,0.87936817,18.552237,292.91706)" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter4040">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3923082"
+         id="feGaussianBlur4042" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4044">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2428571"
+         id="feGaussianBlur4046" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-430.36493"
+     inkscape:cy="92.373484"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2495"
+     inkscape:window-height="1416"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-203.32004,-509.64775)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#00ffff;stroke-width:47.49231339000000673;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4040)"
+       id="path3892"
+       sodipodi:cx="642.85712"
+       sodipodi:cy="588.57141"
+       sodipodi:rx="362.85715"
+       sodipodi:ry="317.14285"
+       d="m 1005.7143,588.57141 a 362.85715,317.14285 0 1 1 -725.71433,0 362.85715,317.14285 0 1 1 725.71433,0 z"
+       transform="matrix(0.72117153,0,0,0.8251242,-1.718783,276.14608)"
+       clip-path="none" />
+    <rect
+       style="fill:#c60000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4044)"
+       id="rect5986"
+       width="449.99997"
+       height="47.142857"
+       x="236.57652"
+       y="589.86218"
+       clip-path="url(#clipPath6012)" />
+  </g>
+</svg>
